@@ -52,7 +52,7 @@ LOCAL_AAPT_FLAGS := \
 LOCAL_AAPT_FLAGS += --rename-manifest-package com.crdroid.home
 
 LOCAL_MIN_SDK_VERSION := 26
-LOCAL_PACKAGE_NAME := crDroidHome
+LOCAL_PACKAGE_NAME := GazaOSHome
 LOCAL_PRIVILEGED_MODULE := true
 LOCAL_OVERRIDES_PACKAGES := Home Launcher2 Launcher3 Trebuchet
 
